@@ -104,7 +104,7 @@ msgstr "Linke Kategorie"
 msgid "Right Category"
 msgstr "Rechte Kategorie"
 
-#: functions.php:128
+#: functions.php:156
 msgid "Appears on blog index and Magazine Homepage template. You can use the Magazine widgets here."
 msgstr "Erscheint auf dem Blog Index und Magazin Startseite Template. Du kannst hier die Magazin Widgets verwenden."
 
@@ -246,9 +246,9 @@ msgstr "Kommentar hinterlassen"
 msgid "Main Navigation"
 msgstr "Hauptnavigation"
 
-#. #-#-#-#-#  tortuga.pot (Tortuga 1.6)  #-#-#-#-#
+#. #-#-#-#-#  tortuga.pot (Tortuga 1.7)  #-#-#-#-#
 #. Template Name of the plugin/theme
-#: functions.php:126
+#: functions.php:154
 msgid "Magazine Homepage"
 msgstr "Magazin Startseite"
 
@@ -334,7 +334,7 @@ msgstr "bewerte es"
 msgid "Background"
 msgstr "Hintergrund"
 
-#: functions.php:106
+#: functions.php:134
 msgid "Sidebar"
 msgstr "Sidebar"
 
@@ -375,7 +375,7 @@ msgstr "Länge des Beitragsauszugs"
 msgid "Single Posts"
 msgstr "Einzelne Beiträge"
 
-#. #-#-#-#-#  tortuga.pot (Tortuga 1.6)  #-#-#-#-#
+#. #-#-#-#-#  tortuga.pot (Tortuga 1.7)  #-#-#-#-#
 #. Template Name of the plugin/theme
 #: inc/customizer/sections/customizer-slider.php:19
 msgid "Post Slider"
@@ -458,11 +458,11 @@ msgstr "Sidebar links"
 msgid "Right Sidebar"
 msgstr "Sidebar rechts"
 
-#: functions.php:116
+#: functions.php:144
 msgid "Header"
 msgstr "Header"
 
-#: functions.php:118
+#: functions.php:146
 msgid "Appears on header area. You can use a search or ad widget here."
 msgstr "Erscheint im Header Bereich. Du kannst hier Widgets für ein Suchfeld oder Werbebanner verwenden."
 
@@ -470,7 +470,7 @@ msgstr "Erscheint im Header Bereich. Du kannst hier Widgets für ein Suchfeld od
 msgid "Three Columns without Sidebar"
 msgstr "Drei Spalten ohne Sidebar"
 
-#. #-#-#-#-#  tortuga.pot (Tortuga 1.6)  #-#-#-#-#
+#. #-#-#-#-#  tortuga.pot (Tortuga 1.7)  #-#-#-#-#
 #. Theme URI of the plugin/theme
 #: inc/customizer/customizer.php:174 inc/theme-info.php:47
 msgid "https://themezee.com/themes/tortuga/"
@@ -485,7 +485,7 @@ msgstr "https://themezee.com/de/docs/tortuga-dokumentation/"
 msgid "https://themezee.com/addons/tortuga-pro/"
 msgstr "https://themezee.com/de/addons/tortuga-pro/"
 
-#: functions.php:108
+#: functions.php:136
 msgid "Appears on posts and pages except the full width template."
 msgstr "Erscheint auf Beiträgen und Seiten mit Ausnahme des Fullwidth Templates."
 

@@ -29,7 +29,7 @@
  * Ersetze datenbankname_hier_einfuegen
  * mit dem Namen der Datenbank, die du verwenden möchtest.
  */
-define('DB_NAME', 'rvwbknew_db');
+define('DB_NAME', 'wordpress');
 
 /**
  * Ersetze benutzername_hier_einfuegen
@@ -70,14 +70,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'P#cP>owD0Oiy}HC@E[aqy+z@Fz[]n;`q3~4=V1@9KBTB(i77UgOasY@=OCe>v*Qm');
-define('SECURE_AUTH_KEY',  'RH}b^6!r%w=v_Dd/LqQTd !eW=Jfk5ro(dD{9]T%Y.%0LJsZ>ZM$owi&`Lc~>Fc7');
-define('LOGGED_IN_KEY',    '0Vhn#l3_umW&t2}U ]c|fPq7MUN]5;oTbT&Uw6[J/Zu7W1hNa.`?=3[E(SGR(H1E');
-define('NONCE_KEY',        'wq%!jRUU7p#F$]{/-a Hs?Qs.5^ a&}6OC~i`k%~5W_LT!W DCrl3}MD/P,%*U|e');
-define('AUTH_SALT',        '%z!?!GWD 4`tgf)g0x@x(-=iH4c%BgBK?}o5q0Y/:Q6]HmJEq73|YYjOoMR=r3Im');
-define('SECURE_AUTH_SALT', '[HjeON6Y#HAm)=hyeq@!`&T{D.J5`RkC`bTVK{T|O!(|qw)iOUJ_B_sl}smT!P8d');
-define('LOGGED_IN_SALT',   '^Lyot-ZhE?Idro_*+^Zw(Vws ;[s0@CFy]4/NJ:)$KfsO3Q2Y|6RtUmHAs34kLvX');
-define('NONCE_SALT',       'IV}d{9)!GQG)|g*Rgd0A4()} :*o !=De>HukiJ8WW}5(9>#^I2Tt&q#sAt56[U;');
+define('AUTH_KEY',         'UlSP|bjs|UCG<9{u2}T23/g5/Nkt%ODIi-@gvdgQT44eZe%%aCSS*ShOkA6_4QDQ');
+define('SECURE_AUTH_KEY',  'xJhL(aNG9&yON9mYEtekh<C[#K1Vq|fwp*i~ix,tui!tYFLbm*!l;1CxsW1Xh@@F');
+define('LOGGED_IN_KEY',    '3ReN4AI`|RP?ZCA?IPsoRlmtC&LL#LYuO+V0d:esy3+KrVBsW+gJj~fbFx(#lUHk');
+define('NONCE_KEY',        '!,JeB+(KHMs0YfD{[t{;a}grF:R|{g <za 5xD`JEF;o`#3u{ +A>-82vgTvv=:J');
+define('AUTH_SALT',        'BmL(aYj<u6<+4E&3O$!8Oe]7C|MxQs6$.k7Bxi_~$A#1%B{y:{eU^#]X>Ih*lQ#u');
+define('SECURE_AUTH_SALT', 'IOAHL.{1^-b3AE&`)gls[=Sr]T PK81L _V^/2 )ZXVN~Hoc[;xGC1d,F`iwpH3M');
+define('LOGGED_IN_SALT',   'Y7B/zoL%3|4zOUwMwm!!^5uUyp`^_&07lfdF$1HeXeP5Gr;LUL]0/SG& Pl^Fd_n');
+define('NONCE_SALT',       'x}!wFhX t{C8qkdq]c1|S&ObSuW><%E7nQ<[vhHCQZe]F%=URV~5w}-$l*,vTc-A');
 
 /**#@-*/
 
